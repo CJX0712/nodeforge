@@ -1,0 +1,16 @@
+.gitignore
+.claude/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+.coverage
+outputs/
+*_cache/
+*.egg-info/
+.env
+*.key
+*.pem
