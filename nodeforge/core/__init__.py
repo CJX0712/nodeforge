@@ -2,8 +2,8 @@
 from nodeforge.core.errors import (
     DataError,
     EvalError,
-    NodeForgeError,
     ModelError,
+    NodeForgeError,
     PipelineError,
     TrainError,
 )
